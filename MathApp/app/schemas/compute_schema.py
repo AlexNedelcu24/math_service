@@ -46,6 +46,7 @@ class JobResponse(BaseModel):
         }
     }
 
+
 class ResultResponse(BaseModel):
     operation: str
     input: str
@@ -60,4 +61,3 @@ class ResultResponse(BaseModel):
             }
         }
     }
-
