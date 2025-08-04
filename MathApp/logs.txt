@@ -1,0 +1,2 @@
+Job accepted: id=12, operation=pow, input=12^4
+Computation done: id=12, result=20736
